@@ -1,2 +1,12 @@
 # TestingGithubApi
-A simple notebook for scraping github user data
+
+<p align="center">
+  <img src="result.png">
+</p>
+
+## Notebook displays:
+- Name of repository
+- Size of project 
+- Count of contributors
+- Default Branch
+- Is branch protected
